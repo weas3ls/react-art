@@ -1,6 +1,6 @@
 # CSS React
 
-This app is built to introduce different methods of applying CSS.
+This app is built to introduce different methods of applying CSS. <br/>
 We begin with a global index file, then proceed to inline styling and conditional classes, followed by building custom components using the `styled-components` library, and finally installing `Tailwind CSS`.
 
 ## How to run
